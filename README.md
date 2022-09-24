@@ -1,3 +1,5 @@
+![screenshot](src/assets/screenshot/screencapture%2001.png)
+
 # Programming Languages Poll Demo App
 
 A simple voting app to learn svelte basics.
